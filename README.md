@@ -19,6 +19,7 @@ Bu proje, Angular eğitimi sürecinde öğrenilen konseptlerin uygulamalı olara
 
 ## Utilizing the Repository
 
-Clone the project:
+Clone the project: git clone https://github.com/soneryesilay/Net-Angular-ChatApp.git
+
 
 ```bash
