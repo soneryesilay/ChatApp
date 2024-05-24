@@ -8,7 +8,11 @@
 - Swagger
 - Dto
 - N Tier Architecture
-- Html, Css, Bootstrap, Js, TS
+- HTML
+- CSS
+- Bootstrap
+- JS
+- TypeScript
 - Angular Js
 - Entity Framework - Linq
 - Real-Time Mesajlaşma
