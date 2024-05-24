@@ -19,7 +19,7 @@
 
 ## Proje Hakkında
 
-Bu proje, Angular eğitimi sürecinde öğrenilen konseptlerin uygulamalı olarak pekiştirilmesini sağlamak amacıyla oluşturulmuştur.
+Bu proje, Angular ve .NET eğitimi sürecinde öğrenilen konseptlerin uygulamalı olarak pekiştirilmesini sağlamak amacıyla oluşturulmuştur.
 
 ## Proje Görseli
 
